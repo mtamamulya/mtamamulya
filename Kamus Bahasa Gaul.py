@@ -9,13 +9,13 @@ kamus_meme = {
 }
 
 print("Selamat datang di kamus istilah gaul!")
-print("Saya akan membantu Anda memahami beberapa kata gaul yang Anda tidak tahu.")
+print("Saya akan membantu Anda memahami beberapa kata gaul yang anda tidak tahu.")
 print("Anda akan diminta untuk memasukkan 5 kata. ")
 print("-" * 50)
 
 for i in range(5):
     print("Kata ke-",i+1)
-    word = input("Masukkan kata yang ingin Anda cari").upper()
+    word = input("Masukkan kata yang ingin anda cari").upper()
     
     if word in meme_dict.keys():
         print("Berikut artinya:", kamus_meme[word])
