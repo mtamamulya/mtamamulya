@@ -103,7 +103,7 @@ Passion saya ada di persimpangan antara **rekayasa perangkat lunak** dan **desai
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mtamamulya">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mtamamulya&repo=https://github.com/mtamamulya/Project-Monitoring-Suhu-16-05" alt="Pinned Repo 1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mtamamulya&repo=Project-Monitoring-Suhu-16-05" alt="Pinned Repo 1" />
       </a>
       <br/>
       <sub>🔥 Proyek unggulan dengan arsitektur bersih & dokumentasi lengkap</sub>
