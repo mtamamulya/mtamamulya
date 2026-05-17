@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Halo! Saya **Muhammad Tamamulya** — seorang developer yang percaya bahwa kode yang baik bukan hanya yang berjalan, tapi yang *mudah dibaca manusia lain besok pagi*.
+Halo! Saya **Mukhlish Pratama Mulya** — seorang developer yang percaya bahwa kode yang baik bukan hanya yang berjalan, tapi yang *mudah dibaca manusia lain besok pagi*.
 
 Saya gemar membangun aplikasi yang tidak hanya fungsional, tapi juga memberikan pengalaman nyata bagi penggunanya. Dari desain sistem hingga debugging tengah malam, saya menikmati setiap bagian dari proses itu.
 
@@ -103,7 +103,7 @@ Passion saya ada di persimpangan antara **rekayasa perangkat lunak** dan **desai
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mtamamulya">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mtamamulya&repo=mtamamulya&theme=tokyonight&hide_border=true" alt="Pinned Repo 1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mtamamulya&repo=https://github.com/mtamamulya/Project-Monitoring-Suhu-16-05" alt="Pinned Repo 1" />
       </a>
       <br/>
       <sub>🔥 Proyek unggulan dengan arsitektur bersih & dokumentasi lengkap</sub>
